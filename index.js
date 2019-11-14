@@ -1,8 +1,8 @@
-console.log("Hello World");
+console.log('Hello World');
 var jane = {
-  name: "Sandeep"
+  name: 'Sandeep'
 };
 
 var person = {
-  name: "Hello"
+  name: 'Hello'
 };

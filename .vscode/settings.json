@@ -1,4 +1,5 @@
 {
   "editor.tabSize": 1,
-  "workbench.colorTheme": "Default Dark+"
+  "workbench.colorTheme": "Ayu Dark Bordered",
+  "prettier.singleQuote": true
 }
